@@ -1,2 +1,2 @@
 # Img
-Biaor Obsidian 笔记链接的内容将会上传到这里，简称“图床”
+Biaor Obsidian 笔记链接的图片附件，自动上传到这里（图床）
